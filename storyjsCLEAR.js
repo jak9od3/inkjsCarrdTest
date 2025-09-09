@@ -65,6 +65,8 @@ var storyContent = {
     "done",
     {
       CHOICE1: [
+        "#",
+        "^CLEAR",
         "^But many paths to take, however after many trials ",
         { "->": "LAST" },
         "\n",
